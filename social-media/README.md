@@ -8,7 +8,7 @@ A modern and modular **social media platform frontend** built with [Next.js](htt
 ## 📸 Preview
 
 <!-- Add your screenshots or GIFs here -->
-![Weeb Start](screenshots/start_en.png) | ![Weeb Start](screenshots/start_ar.png)
+| ![Weeb Start](screenshots/start_en.png) | ![Weeb Start](screenshots/start_ar.png)
 ![Register](screenshots/register_en.png) | ![Register](screenshots/register_ar.png)
 ![Login](screenshots/login_en.png) | ![login](screenshots/login_ar.png)
 ![profile](screenshots/profile_en.png) | ![profile](screenshots/profile_ar.png)
@@ -120,6 +120,5 @@ MIT – Free to use and modify for personal or commercial projects.
 ## 🤝 Hire Me
 
 If you want this project customized or need a similar one built for you,  
-contact me via email: [alihosaenhabibjobs@gmail.com]  (mailto:alihosaenhabibjobs@gmail.com)
-or 
-contact me via email: [techbridgeali123@gmail.com]  (mailto:techbridgeali123@gmail.com)
+contact me via email: [alihosaenhabibjobs@gmail.com]  (mailto:alihosaenhabibjobs@gmail.com) | [techbridgeali123@gmail.com]  (mailto:techbridgeali123@gmail.com)
+ 
